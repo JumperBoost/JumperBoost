@@ -1,4 +1,12 @@
-## Hi there 👋
+## Bienvenue sur mon profil 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=1000&color=21B568&multiline=true&width=435&height=80&lines=%24+whoami;Milwenn+Franceus-Cointrel;19+yo%2C+French+Developper)](https://git.io/typing-svg)
+![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=Milwenn+Franceus-Cointrel&description=Étudiant+en+1re+année+de+BUT+Informatique+à+l'IUT+de+Montpellier-Sète,+en+recherche+d'une+alternance+en+tant+que+Développeur+pour+début+2025+✨&image=https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png&backgroundColor=%23ffffff&pattern=wiggle&opacity=0.1&site=www.jumperboost.fr&github=JumperBoost&linkedin=Milwenn+FRANCEUS--COINTREL)
+
+## 🏷️ À propos de moi
+
+Je m'appelle Milwenn FRANCEUS-COINTREL, j'ai actuellement 19 ans et je suis étudiant en 1re année de BUT Informatique à l'IUT de Montpellier-Sète.
+
+Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo et leurs possibilités gargantuesques de modding, mon intérêt envers le développement s'est fait naturellement.
 
 <!--
 **JumperBoost/JumperBoost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
