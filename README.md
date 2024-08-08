@@ -13,28 +13,94 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
 
 <h2 align="center">🛠️ Mes compétences</h2>
 
-<h3 align="center">Web</h3>
+<h3 align="center">Développement Web</h3>
 
 <div align="center">
   <table>
     <thead>
       <tr>
         <th align="center" colspan="2" style="color: white;">Front-end</th>
+        <th align="center" colspan="3" style="color: white;">Back-end</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="center">
+          <a href="https://developer.mozilla.org/fr/docs/Glossary/HTML5/">
+            <img src="resources/language-icons/html5.png" height="50" alt="HTML5"/>
+          </a>
+          <br>HTML5
+        </td>
+        <td align="center">
+          <a href="https://developer.mozilla.org/fr/docs/Web/CSS/">
+            <img src="resources/language-icons/css3.png" height="50" alt="CSS3"/>
+          </a>
+          <br>CSS3
+        </td>
+        <td align="center">
           <a href="https://nodejs.org/">
-            <img src="resources/language-icons/nodejs.png" width="50" height="50" alt="Node.js"/>
+            <img src="resources/language-icons/nodejs.png" height="50" alt="Node.js"/>
           </a>
           <br>Node.js
         </td>
         <td align="center">
+          <a href="https://www.php.net/">
+            <img src="resources/language-icons/php.svg" height="50" alt="PHP"/>
+          </a>
+          <br>PHP
+        </td>
+        <td align="center">
           <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/">
-            <img src="resources/language-icons/javascript.gif" width="50" height="50" alt="JavaScript"/>
+            <img src="resources/language-icons/javascript.gif" height="50" alt="JavaScript"/>
           </a>
           <br>JavaScript
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h3 align="center">Développement Général</h3>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center" colspan="4" style="color: white;">Haut niveau</th>
+        <th align="center" colspan="1" style="color: white;">Bas niveau</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://www.java.com/">
+            <img src="resources/language-icons/java.gif" height="50" alt="Java"/>
+          </a>
+          <br>Java
+        </td>
+        <td align="center">
+          <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/">
+            <img src="resources/language-icons/c-sharp.png" height="50" alt="C-Sharp"/>
+          </a>
+          <br>C#
+        </td>
+        <td align="center">
+          <a href="https://www.python.org/">
+            <img src="resources/language-icons/python.gif" height="50" alt="Python"/>
+          </a>
+          <br>Python
+        </td>
+        <td align="center">
+          <a href="https://lua.org/">
+            <img src="resources/language-icons/lua.gif" height="50" alt="Lua"/>
+          </a>
+          <br>Lua
+        </td>
+        <td align="center">
+          <a href="https://www.learn-c.org/">
+            <img src="resources/language-icons/c.png" height="50" alt="C"/>
+          </a>
+          <br>C
         </td>
       </tr>
     </tbody>
