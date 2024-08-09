@@ -19,8 +19,8 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
   <table>
     <thead>
       <tr>
-        <th align="center" colspan="2">Front-end</th>
-        <th align="center" colspan="3">Back-end</th>
+        <th align="center" colspan="3">Front-end</th>
+        <th align="center" colspan="2">Back-end</th>
       </tr>
     </thead>
     <tbody>
@@ -38,6 +38,12 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
           <br>CSS3
         </td>
         <td align="center">
+          <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/">
+            <img src="resources/language-icons/javascript.gif" height="50" alt="JavaScript"/>
+          </a>
+          <br>JavaScript
+        </td>
+        <td align="center">
           <a href="https://nodejs.org/">
             <img src="resources/language-icons/nodejs.png" height="50" alt="Node.js"/>
           </a>
@@ -48,12 +54,6 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
             <img src="resources/language-icons/php.svg" height="50" alt="PHP"/>
           </a>
           <br>PHP
-        </td>
-        <td align="center">
-          <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/">
-            <img src="resources/language-icons/javascript.gif" height="50" alt="JavaScript"/>
-          </a>
-          <br>JavaScript
         </td>
       </tr>
     </tbody>
@@ -183,7 +183,7 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
   <table>
     <thead>
       <tr>
-        <th align="center" colspan="4">Collaboration</th>
+        <th align="center" colspan="6">Collaboration</th>
         <th align="center" colspan="5">Service</th>
       </tr>
     </thead>
@@ -206,6 +206,18 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
             <img src="resources/tool-icons/gitlab.png" height="50" alt="GitLab"/>
           </a>
           <br>GitLab
+        </td>
+        <td align="center">
+          <a href="https://www.figma.com/">
+            <img src="resources/tool-icons/figma.gif" height="50" alt="Figma"/>
+          </a>
+          <br>Figma
+        </td>
+        <td align="center">
+          <a href="https://workspace.google.com/">
+            <img src="resources/tool-icons/google.gif" height="50" alt="Google"/>
+          </a>
+          <br>Workspace
         </td>
         <td align="center">
           <a href="https://discord.com/">
@@ -242,6 +254,65 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
             <img src="resources/tool-icons/apache.png" height="50" alt="Apache"/>
           </a>
           <br>Apache
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h3 align="center">Environnement de développement (IDE)</h3>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center" colspan="6">Jetbrains</th>
+        <th align="center" colspan="1">Autre</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://www.jetbrains.com/fr-fr/idea/">
+            <img src="resources/ide-icons/intellij_idea.png" height="50" alt="IntelliJ"/>
+          </a>
+          <br>IntelliJ IDEA
+        </td>
+        <td align="center">
+          <a href="https://www.jetbrains.com/fr-fr/phpstorm/">
+            <img src="resources/ide-icons/phpstorm.png" height="50" alt="PhpStorm"/>
+          </a>
+          <br>PhpStorm
+        </td>
+        <td align="center">
+          <a href="https://www.jetbrains.com/fr-fr/rider/">
+            <img src="resources/ide-icons/rider.png" height="50" alt="Rider"/>
+          </a>
+          <br>Rider
+        </td>
+        <td align="center">
+          <a href="https://www.jetbrains.com/fr-fr/clion/">
+            <img src="resources/ide-icons/clion.png" height="50" alt="CLion"/>
+          </a>
+          <br>CLion
+        </td>
+        <td align="center">
+          <a href="https://www.jetbrains.com/fr-fr/pycharm/">
+            <img src="resources/ide-icons/pycharm.png" height="50" alt="PyCharm"/>
+          </a>
+          <br>PyCharm
+        </td>
+        <td align="center">
+          <a href="https://www.jetbrains.com/fr-fr/datagrip/">
+            <img src="resources/ide-icons/datagrip.svg" height="50" alt="DataGrip"/>
+          </a>
+          <br>DataGrip
+        </td>
+        <td align="center">
+          <a href="https://code.visualstudio.com/">
+            <img src="resources/ide-icons/vscode.png" height="50" alt="VSCode"/>
+          </a>
+          <br>VS Code
         </td>
       </tr>
     </tbody>
