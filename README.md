@@ -8,7 +8,9 @@
 
 Je m'appelle Milwenn FRANCEUS-COINTREL, j'ai actuellement 19 ans et je suis étudiant en 1re année de BUT Informatique à l'IUT de Montpellier-Sète.
 
-Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo et leurs possibilités gargantuesques de modding, mon intérêt envers le développement s'est fait naturellement.
+Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo et leurs possibilités gargantuesques de modding, mon intérêt envers le développement s'est fait naturellement. C'est vers l'âge de mes 10 ans sur le jeu vidéal [Minecraft](https://www.minecraft.net/), que j'ai découvert que l'on pouvait faire tout ce que l'on souhaitait via l'API [Bukkit](https://dev.bukkit.org/) et le langage de programmation Java. Ce fut un véritable déclic : cette ${\color{Orange}\large\textsf{flamme}}\$ allumée en moi depuis ce jour, m'a éveillé ma curiosité et ma soif d'apprendre toute sorte de technologies lors de mon temps libre; des heures et des journées entières à **imaginer**, **coder**, **tester**, et surtout **apprendre de mes erreurs**.
+
+Étant déterminé et perfectionniste dans mes tâches, cette approche m'a été de nombreuses fois un atout, me permettant constamment de progresser et de renforcer mes compétences, même si ce perfectionnisme peut parfois devenir un petit défi à surmonter.
 
 
 <h2 align="center">🛠️ Mes compétences</h2>
