@@ -19,8 +19,8 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
   <table>
     <thead>
       <tr>
-        <th align="center" colspan="2" style="color: white;">Front-end</th>
-        <th align="center" colspan="3" style="color: white;">Back-end</th>
+        <th align="center" colspan="2">Front-end</th>
+        <th align="center" colspan="3">Back-end</th>
       </tr>
     </thead>
     <tbody>
@@ -66,8 +66,8 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
   <table>
     <thead>
       <tr>
-        <th align="center" colspan="4" style="color: white;">Haut niveau</th>
-        <th align="center" colspan="1" style="color: white;">Bas niveau</th>
+        <th align="center" colspan="4">Haut niveau</th>
+        <th align="center" colspan="1">Bas niveau</th>
       </tr>
     </thead>
     <tbody>
@@ -113,8 +113,8 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
   <table>
     <thead>
       <tr>
-        <th align="center" colspan="2" style="color: white;">Relationelle</th>
-        <th align="center" colspan="2" style="color: white;">Autre</th>
+        <th align="center" colspan="2">Relationelle</th>
+        <th align="center" colspan="2">Autre</th>
       </tr>
     </thead>
     <tbody>
@@ -142,6 +142,34 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
             <img src="resources/storage-icons/yaml.png" height="50" alt="YAML"/>
           </a>
           <br>YAML
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3 align="center">DevOps</h3>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center" colspan="1">Infrastructure</th>
+        <th align="center" colspan="1">Test</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://www.docker.com/">
+            <img src="resources/devops-icons/docker.svg" height="50" alt="Docker"/>
+          </a>
+          <br>Docker
+        </td>
+        <td align="center">
+          <a href="https://junit.org/junit5/">
+            <img src="resources/devops-icons/junit5.png" height="50" alt="JUnit"/>
+          </a>
+          <br>JUnit
         </td>
       </tr>
     </tbody>
