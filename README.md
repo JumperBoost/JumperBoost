@@ -1,7 +1,7 @@
 <h2 align="center">Bienvenue sur mon profil 👋</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=1000&color=21B568&multiline=true&width=435&height=80&lines=%24+whoami;Milwenn+Franceus-Cointrel;19+yo%2C+French+Developer)](https://git.io/typing-svg)
-![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=Milwenn+Franceus-Cointrel&description=Étudiant+en+1re+année+de+BUT+Informatique+à+l'IUT+de+Montpellier-Sète,+en+recherche+d'une+alternance+en+tant+que+Développeur+pour+début+2025+✨&image=https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png&backgroundColor=%23ffffff&pattern=wiggle&opacity=0.1&site=www.jumperboost.fr&github=JumperBoost&linkedin=Milwenn+FRANCEUS--COINTREL)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=1000&color=21B568&multiline=true&width=435&height=80&lines=%24+whoami;Milwenn+Franceus-Cointrel;19+yo%2C+French+Developer)
+![Profile details](https://cardivo.vercel.app/api?name=Milwenn+Franceus-Cointrel&description=Étudiant+en+1re+année+de+BUT+Informatique+à+l'IUT+de+Montpellier-Sète,+en+recherche+d'une+alternance+en+tant+que+Développeur+pour+début+2025+✨&image=https://avatars.githubusercontent.com/u/38703849&backgroundColor=%23ffffff&pattern=wiggle&opacity=0.1&site=www.jumperboost.fr&github=JumperBoost&linkedin=Milwenn+FRANCEUS--COINTREL)
 
 
 <h2 align="center">🏷️ À propos de moi</h2>
