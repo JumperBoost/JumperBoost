@@ -146,8 +146,9 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
       </tr>
     </tbody>
   </table>
+</div>
 
-  <h3 align="center">DevOps</h3>
+<h3 align="center">DevOps</h3>
 
 <div align="center">
   <table>
@@ -170,6 +171,77 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
             <img src="resources/devops-icons/junit5.png" height="50" alt="JUnit"/>
           </a>
           <br>JUnit
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h3 align="center">Outils</h3>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center" colspan="4">Collaboration</th>
+        <th align="center" colspan="5">Service</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://git-scm.com/">
+            <img src="resources/tool-icons/git.png" height="50" alt="Git"/>
+          </a>
+          <br>Git
+        </td>
+        <td align="center">
+          <a href="https://github.com/">
+            <img src="resources/tool-icons/github.png" height="50" alt="GitHub"/>
+          </a>
+          <br>GitHub
+        </td>
+        <td align="center">
+          <a href="https://gitlab.com/">
+            <img src="resources/tool-icons/gitlab.png" height="50" alt="GitLab"/>
+          </a>
+          <br>GitLab
+        </td>
+        <td align="center">
+          <a href="https://discord.com/">
+            <img src="resources/tool-icons/discord.gif" height="50" alt="Discord"/>
+          </a>
+          <br>Discord
+        </td>
+        <td align="center">
+          <a href="https://www.kernel.org/">
+            <img src="resources/tool-icons/linux.gif" height="50" alt="Linux"/>
+          </a>
+          <br>Linux
+        </td>
+        <td align="center">
+          <a href="https://maven.apache.org/">
+            <img src="resources/tool-icons/maven.png" height="50" alt="Maven"/>
+          </a>
+          <br>Maven
+        </td>
+        <td align="center">
+          <a href="https://gradle.org/">
+            <img src="resources/tool-icons/gradle.png" height="50" alt="Gradle"/>
+          </a>
+          <br>Gradle
+        </td>
+        <td align="center">
+          <a href="https://nginx.org/">
+            <img src="resources/tool-icons/nginx.png" height="50" alt="Nginx"/>
+          </a>
+          <br>Nginx
+        </td>
+        <td align="center">
+          <a href="https://httpd.apache.org/">
+            <img src="resources/tool-icons/apache.png" height="50" alt="Apache"/>
+          </a>
+          <br>Apache
         </td>
       </tr>
     </tbody>
