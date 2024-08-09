@@ -107,6 +107,47 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
   </table>
 </div>
 
+<h3 align="center">Développement Base de données</h3>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center" colspan="2" style="color: white;">Relationelle</th>
+        <th align="center" colspan="2" style="color: white;">Autre</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://www.mysql.com/">
+            <img src="resources/storage-icons/mysql.png" height="50" alt="MySQL"/>
+          </a>
+          <br>MySQL
+        </td>
+        <td align="center">
+          <a href="https://www.oracle.com/database/">
+            <img src="resources/storage-icons/oracle-sql.png" height="50" alt="Oracle-SQL"/>
+          </a>
+          <br>Oracle SQL
+        </td>
+        <td align="center">
+          <a href="https://www.json.org/">
+            <img src="resources/storage-icons/json.png" height="50" alt="JSON"/>
+          </a>
+          <br>JSON
+        </td>
+        <td align="center">
+          <a href="https://yaml.org/">
+            <img src="resources/storage-icons/yaml.png" height="50" alt="YAML"/>
+          </a>
+          <br>YAML
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <!--
 **JumperBoost/JumperBoost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
