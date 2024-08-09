@@ -37,7 +37,7 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
           <a href="https://developer.mozilla.org/fr/docs/Web/CSS/">
             <img src="resources/language-icons/css3.png" height="50" alt="CSS3"/>
           </a>
-          <br>CSS3
+          <br>&nbspCSS3&nbsp
         </td>
         <td align="center">
           <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/">
@@ -55,7 +55,7 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
           <a href="https://www.php.net/">
             <img src="resources/language-icons/php.svg" height="50" alt="PHP"/>
           </a>
-          <br>PHP
+          <br>&nbsp&nbsp&nbsp&nbspPHP&nbsp&nbsp&nbsp&nbsp
         </td>
       </tr>
     </tbody>
@@ -78,13 +78,13 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
           <a href="https://www.java.com/">
             <img src="resources/language-icons/java.gif" height="50" alt="Java"/>
           </a>
-          <br>Java
+          <br>&nbsp&nbspJava&nbsp&nbsp
         </td>
         <td align="center">
           <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/">
             <img src="resources/language-icons/c-sharp.png" height="50" alt="C-Sharp"/>
           </a>
-          <br>C#
+          <br>&nbsp&nbsp&nbspC#&nbsp&nbsp&nbsp
         </td>
         <td align="center">
           <a href="https://www.python.org/">
@@ -96,7 +96,7 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
           <a href="https://lua.org/">
             <img src="resources/language-icons/lua.gif" height="50" alt="Lua"/>
           </a>
-          <br>Lua
+          <br>&nbsp&nbsp&nbspLua&nbsp&nbsp&nbsp
         </td>
         <td align="center">
           <a href="https://www.learn-c.org/">
@@ -195,7 +195,7 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
           <a href="https://git-scm.com/">
             <img src="resources/tool-icons/git.png" height="50" alt="Git"/>
           </a>
-          <br>Git
+          <br>&nbsp&nbsp&nbspGit&nbsp&nbsp&nbsp
         </td>
         <td align="center">
           <a href="https://github.com/">
@@ -231,7 +231,7 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
           <a href="https://www.kernel.org/">
             <img src="resources/tool-icons/linux.gif" height="50" alt="Linux"/>
           </a>
-          <br>Linux
+          <br>&nbspLinux&nbsp
         </td>
         <td align="center">
           <a href="https://maven.apache.org/">
@@ -249,7 +249,7 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
           <a href="https://nginx.org/">
             <img src="resources/tool-icons/nginx.png" height="50" alt="Nginx"/>
           </a>
-          <br>Nginx
+          <br>&nbspNginx&nbsp
         </td>
         <td align="center">
           <a href="https://httpd.apache.org/">
@@ -290,13 +290,13 @@ Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo
           <a href="https://www.jetbrains.com/fr-fr/rider/">
             <img src="resources/ide-icons/rider.png" height="50" alt="Rider"/>
           </a>
-          <br>Rider
+          <br>&nbspRider&nbsp
         </td>
         <td align="center">
           <a href="https://www.jetbrains.com/fr-fr/clion/">
             <img src="resources/ide-icons/clion.png" height="50" alt="CLion"/>
           </a>
-          <br>CLion
+          <br>&nbspCLion&nbsp
         </td>
         <td align="center">
           <a href="https://www.jetbrains.com/fr-fr/pycharm/">
