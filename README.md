@@ -10,7 +10,11 @@ Je m'appelle Milwenn FRANCEUS-COINTREL, j'ai actuellement 19 ans et je suis étu
 
 Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo et leurs possibilités gargantuesques de modding, mon intérêt envers le développement s'est fait naturellement. C'est vers l'âge de mes 10 ans sur le jeu vidéal [Minecraft](https://www.minecraft.net/), que j'ai découvert que l'on pouvait faire tout ce que l'on souhaitait via l'API [Bukkit](https://dev.bukkit.org/) et le langage de programmation Java. Ce fut un véritable déclic : cette ${\color{Orange}\large\textsf{flamme}}\$ allumée en moi depuis ce jour, m'a éveillé ma curiosité et ma soif d'apprendre toute sorte de technologies lors de mon temps libre; des heures et des journées entières à **imaginer**, **coder**, **tester**, et surtout **apprendre de mes erreurs**.
 
-Étant déterminé et perfectionniste dans mes tâches, cette approche m'a été de nombreuses fois un atout, me permettant constamment de progresser et de renforcer mes compétences, même si ce perfectionnisme peut parfois devenir un petit défi à surmonter.
+Étant **déterminé** et **perfectionniste** dans mes tâches depuis mon enfance, cette approche m'a été de nombreuses fois un atout, me permettant constamment de progresser et de renforcer mes compétences, même si ce perfectionnisme peut parfois devenir un petit défi à surmonter.
+
+Ayant fait un baccalauréat général avec **Mathématiques** et **Numérique et Sciences Informatiques** comme spécialités, je me suis orienté vers un **BUT Informatique** pour me focaliser dans le développement : le BUT est une formation comprenant un parfait compromis entre **théorie** et **pratique** où la pratique est largement mise en évidence, c'est ce qui m'a amené à choisir cette formation. Je souhaiterais à la fin de mon BUT me spécialiser via un **Master**, pour améliorer au maximum mes compétences dans ce domaine.
+
+**À l'heure d'aujourd'hui**, j'ai réussi ma première année avec une moyenne de **14,55** : je passe en seconde année avec le parcours **RACDV** _(Réalisation d'Applications : Conception, Développement, Validation)_.
 
 
 <h2 align="center">🛠️ Mes compétences</h2>
