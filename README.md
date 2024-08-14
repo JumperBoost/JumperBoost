@@ -1,9 +1,11 @@
+<!-- Welcome Section -->
 <h2 align="center">Bienvenue sur mon profil 👋</h2>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=1000&color=21B568&multiline=true&width=435&height=80&lines=%24+whoami;Milwenn+Franceus-Cointrel;19+yo%2C+French+Developer)
 ![Profile details](https://cardivo.vercel.app/api?name=Milwenn+Franceus-Cointrel&description=Étudiant+en+1re+année+de+BUT+Informatique+à+l'IUT+de+Montpellier-Sète,+en+recherche+d'une+alternance+en+tant+que+Développeur+pour+début+2025+✨&image=https://avatars.githubusercontent.com/u/38703849&backgroundColor=%23ffffff&pattern=wiggle&opacity=0.1&site=www.jumperboost.fr&github=JumperBoost&linkedin=Milwenn+FRANCEUS--COINTREL)
 
 
+<!-- About Me Section -->
 <h2 align="center">🏷️ À propos de moi</h2>
 
 Je m'appelle Milwenn FRANCEUS-COINTREL, j'ai actuellement 19 ans et je suis étudiant en 1re année de BUT Informatique à l'IUT de Montpellier-Sète.
@@ -17,6 +19,7 @@ Ayant fait un baccalauréat général avec **Mathématiques** et **Numérique et
 **À l'heure d'aujourd'hui**, j'ai réussi ma première année avec une moyenne de **14,55** : je passe en seconde année avec le parcours **RACDV** _(Réalisation d'Applications : Conception, Développement, Validation)_.
 
 
+<!-- Skills Section -->
 <h2 align="center">🛠️ Mes compétences</h2>
 
 <h3 align="center">Développement Web</h3>
@@ -323,6 +326,102 @@ Ayant fait un baccalauréat général avec **Mathématiques** et **Numérique et
       </tr>
     </tbody>
   </table>
+</div>
+
+
+<!-- Projects Section -->
+<h2 align="center">💻 Mes projets</h2>
+La liste ci-dessous contient uniquement les projets que j'estime pouvoir être publique.
+
+<h3>BUT 1 – Première année</h3>
+Les projets ci-dessous correspondent aux différents TDs et projets que j'ai pu effectuer lors de ma première année au sein du BUT Informatique.
+
+<h4>1er semestre</h4>
+<details>
+  <summary><strong>SAÉ – Situation d'Apprentissage et d'Évaluation
+    <img src="resources/language-icons/java.gif" height=15>
+    <img src="resources/language-icons/html5.png" height=15>
+    <img src="resources/language-icons/css3.png" height=15>
+  </strong></summary>
+  <br>
+  <div align="center">
+    <a href="https://github.com/JumperBoost/A1-SAE1.01"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-SAE1.01" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-SAE1.02"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-SAE1.02" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-SAE1.04"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-SAE1.04" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-SAE1.05"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-SAE1.05" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-SAE1.06"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-SAE1.06" height=90></a>
+  </div>
+</details>
+
+<h4>2ème semestre</h4>
+<details>
+  <summary><strong>SAÉ – Situation d'Apprentissage et d'Évaluation
+    <img src="resources/language-icons/java.gif" height=15>
+    <img src="resources/devops-icons/junit5.png" height=15>
+    <img src="resources/language-icons/html5.png" height=15>
+    <img src="resources/language-icons/css3.png" height=15>
+    <img src="resources/language-icons/php.svg" height=15>
+    <img src="resources/storage-icons/mysql.png" height=15>
+    <img src="resources/storage-icons/oracle-sql.png" height=15>
+  </strong></summary>
+  <div align="center">
+    <h5>SAÉ Trains (SAÉ 2.01/2.02)</h5>
+    <a href="https://github.com/JumperBoost/A1-SAETrains-Phase1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-SAETrains-Phase1" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-SAETrains-Phase2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-SAETrains-Phase2" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-SAETrains-Phase3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-SAETrains-Phase3" height=90></a>
+    <br><br>
+    <a href="https://github.com/JumperBoost/A1-SAE2.03"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-SAE2.03" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-SAE2.04"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-SAE2.04" height=90></a>
+  </div>
+</details>
+<details>
+  <summary><strong>Réseau Bas Niveau 
+    <img src="resources/language-icons/c.png" height=15>
+  </strong></summary>
+  <br>
+  <div align="center">
+    <a href="https://github.com/JumperBoost/A1-ReseauBasNiveau-TD1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-ReseauBasNiveau-TD1" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-ReseauBasNiveau-TD2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-ReseauBasNiveau-TD2" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-ReseauBasNiveau-TD3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-ReseauBasNiveau-TD3" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-ReseauBasNiveau-TD4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-ReseauBasNiveau-TD4" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-ReseauBasNiveau-TD5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-ReseauBasNiveau-TD5" height=90></a>
+  </div>
+</details>
+<details>
+  <summary><strong>Développement Orienté Objets
+    <img src="resources/language-icons/java.gif" height=15>
+    <img src="resources/devops-icons/junit5.png" height=15>
+  </strong></summary>
+  <br>
+  <div align="center">
+    <a href="https://github.com/JumperBoost/A1-DevObjets-TP1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-DevObjets-TP1" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-DevObjets-TP2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-DevObjets-TP2" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-DevObjets-TP3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-DevObjets-TP3" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-DevObjets-TP4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-DevObjets-TP4" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-DevObjets-TP5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-DevObjets-TP5" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-DevObjets-TP6"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-DevObjets-TP6" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-DevObjets-TP7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-DevObjets-TP7" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-DevObjets-TP8"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-DevObjets-TP8" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-DevObjets-TP9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-DevObjets-TP9" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-DevObjets-TP10"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-DevObjets-TP10" height=90></a>
+  </div>
+</details>
+<details>
+  <summary><strong>IHM – Interface Homme-Machine
+    <img src="resources/language-icons/java.gif" height=15>
+    <img src="resources/devops-icons/junit5.png" height=15>
+  </strong></summary>
+  <br>
+  <div align="center">
+    <a href="https://github.com/JumperBoost/A1-IHM-TP1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-IHM-TP1" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-IHM-TP2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-IHM-TP2" height=90></a>
+    <a href="https://github.com/JumperBoost/A1-IHM-TP3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-IHM-TP3" height=90></a>
+  </div>
+</details>
+
+<div align="center">
+  <br><br><a href="https://github.com/JumperBoost?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JumperBoost&locale=fr&layout=compact&langs_count=8"></a><br>
+  <strong>Statistiques</strong>
 </div>
 
 <!--
