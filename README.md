@@ -331,15 +331,19 @@ Ayant fait un baccalauréat général avec **Mathématiques** et **Numérique et
 
 <!-- Projects Section -->
 <h2 align="center">💻 Mes projets</h2>
-La liste ci-dessous contient uniquement les projets que j'estime pouvoir être publique.
 
+> [!NOTE]
+> La liste ci-dessous contient uniquement les projets que j'estime pouvoir être publique.
+
+<br>
 <h3>BUT 1 – Première année</h3>
-Les projets ci-dessous correspondent aux différents TDs et projets que j'ai pu effectuer lors de ma première année au sein du BUT Informatique.
+Les dépôts ci-dessous correspondent aux différents TDs et projets que j'ai pu effectuer lors de ma première année au sein du BUT Informatique.
 
 <h4>1er semestre</h4>
 <details>
   <summary><strong>SAÉ – Situation d'Apprentissage et d'Évaluation
     <img src="resources/language-icons/java.gif" height=15>
+    <img src="resources/storage-icons/oracle-sql.png" height=15>
     <img src="resources/language-icons/html5.png" height=15>
     <img src="resources/language-icons/css3.png" height=15>
   </strong></summary>
@@ -417,6 +421,23 @@ Les projets ci-dessous correspondent aux différents TDs et projets que j'ai pu 
     <a href="https://github.com/JumperBoost/A1-IHM-TP2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-IHM-TP2" height=90></a>
     <a href="https://github.com/JumperBoost/A1-IHM-TP3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-IHM-TP3" height=90></a>
   </div>
+</details>
+<br>
+<h3>BUT 2 – Deuxième année</h3>
+
+> [!NOTE] 
+> À titre temporaire, les dépôts ci-dessous correspondent aux différents TDs abordés en deuxième année, effectué en autodidacte.
+
+<h4>1er semestre</h4>
+<details>
+  <summary><strong>Développement web PHP
+    <img src="resources/language-icons/html5.png" height=15>
+    <img src="resources/language-icons/css3.png" height=15>
+    <img src="resources/language-icons/php.svg" height=15>
+    <img src="resources/storage-icons/mysql.png" height=15>
+  </strong></summary> 
+  <br>
+  <a href="https://github.com/JumperBoost/A2-Web-TDPHP-AD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A2-Web-TDPHP-AD" height=130></a>
 </details>
 
 <div align="center">
