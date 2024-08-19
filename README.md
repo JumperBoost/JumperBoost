@@ -373,7 +373,7 @@ Les dépôts ci-dessous correspondent aux différents TDs et projets que j'ai pu
     <a href="https://github.com/JumperBoost/A1-SAETrains-Phase1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-SAETrains-Phase1" height=90></a>
     <a href="https://github.com/JumperBoost/A1-SAETrains-Phase2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-SAETrains-Phase2" height=90></a>
     <a href="https://github.com/JumperBoost/A1-SAETrains-Phase3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-SAETrains-Phase3" height=90></a>
-    <br><br>
+    <br>
     <a href="https://github.com/JumperBoost/A1-SAE2.03"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-SAE2.03" height=90></a>
     <a href="https://github.com/JumperBoost/A1-SAE2.04"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A1-SAE2.04" height=90></a>
   </div>
@@ -437,7 +437,7 @@ Les dépôts ci-dessous correspondent aux différents TDs et projets que j'ai pu
     <img src="resources/storage-icons/mysql.png" height=15>
   </strong></summary> 
   <br>
-  <a href="https://github.com/JumperBoost/A2-Web-TDPHP-AD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A2-Web-TDPHP-AD" height=130></a>
+  <a href="https://github.com/JumperBoost/A2-Web-TDPHP-AD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A2-Web-TDPHP-AD" height=110></a>
 </details>
 
 <div align="center">
