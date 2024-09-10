@@ -2,13 +2,13 @@
 <h2 align="center">Bienvenue sur mon profil 👋</h2>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=1000&color=21B568&multiline=true&width=435&height=80&lines=%24+whoami;Milwenn+Franceus-Cointrel;19+yo%2C+French+Developer)
-![Profile details](https://cardivo.vercel.app/api?name=Milwenn+Franceus-Cointrel&description=Étudiant+en+1re+année+de+BUT+Informatique+à+l'IUT+de+Montpellier-Sète,+en+recherche+d'une+alternance+en+tant+que+Développeur+pour+début+2025+✨&image=https://avatars.githubusercontent.com/u/38703849&backgroundColor=%23ffffff&pattern=wiggle&opacity=0.1&site=www.jumperboost.fr&github=JumperBoost&linkedin=Milwenn+FRANCEUS--COINTREL)
+![Profile details](https://cardivo.vercel.app/api?name=Milwenn+Franceus-Cointrel&description=Étudiant+en+2ème+année+de+BUT+Informatique+à+l'IUT+de+Montpellier-Sète,+en+recherche+d'une+alternance+en+tant+que+Développeur+pour+début+2025+✨&image=https://avatars.githubusercontent.com/u/38703849&backgroundColor=%23ffffff&pattern=wiggle&opacity=0.1&site=www.jumperboost.fr&github=JumperBoost&linkedin=Milwenn+FRANCEUS--COINTREL)
 
 
 <!-- About Me Section -->
 <h2 align="center">🏷️ À propos de moi</h2>
 
-Je m'appelle Milwenn FRANCEUS-COINTREL, j'ai actuellement 19 ans et je suis étudiant en 1re année de BUT Informatique à l'IUT de Montpellier-Sète.
+Je m'appelle Milwenn FRANCEUS-COINTREL, j'ai actuellement 19 ans et je suis étudiant en 2ème année de BUT Informatique à l'IUT de Montpellier-Sète.
 
 Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo et leurs possibilités gargantuesques de modding, mon intérêt envers le développement s'est fait naturellement. C'est vers l'âge de mes 10 ans sur le jeu vidéo [Minecraft](https://www.minecraft.net/), que j'ai découvert que l'on pouvait faire tout ce que l'on souhaitait via l'API [Bukkit](https://dev.bukkit.org/) et le langage de programmation Java. Ce fut un véritable déclic : cette ${\color{Orange}\large\textsf{flamme}}\$ allumée en moi depuis ce jour, m'a éveillé ma curiosité et ma soif d'apprendre toutes sortes de technologies lors de mon temps libre; des heures et des journées entières à **imaginer**, **coder**, **tester**, et surtout **apprendre de mes erreurs**.
 
