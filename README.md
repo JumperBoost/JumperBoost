@@ -440,12 +440,15 @@ Les dépôts ci-dessous correspondent aux différents TDs et projets que j'ai pu
   <a href="https://github.com/JumperBoost/A2-DevWeb-TDs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A2-DevWeb-TDs" height=110></a>
 </details>
 
-<div align="center">
-  <br><br>
-  <a href="https://github.com/JumperBoost?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JumperBoost&locale=fr&layout=compact&langs_count=8"></a>
+<h2 align="center">📊 Statistiques</h2>
+  
+> [!IMPORTANT]
+> Les statistiques [WakaTime](https://wakatime.com/@JumperBoost) ci-dessous ne concernent qu'à partir du 29 septembre 2024.
+
+<div>
   <!--START_SECTION:waka-->
 
-```txt
+```rust
 From: 17 November 2023 - To: 16 November 2024
 
 Total Time: 181 hrs 49 mins
@@ -457,9 +460,10 @@ Markdown          10 hrs 57 mins  █▓░░░░░░░░░░░░░�
 CSS               10 hrs 19 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
 ```
 
-<!--END_SECTION:waka-->
-  <br>
-  <strong>Statistiques</strong>
+  <!--END_SECTION:waka-->
+  <div align="center">
+    <a href="https://github.com/JumperBoost?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JumperBoost&locale=fr&layout=compact&langs_count=8"></a>
+  </div>
 </div>
 
 <!--
