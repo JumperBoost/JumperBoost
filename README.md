@@ -444,7 +444,20 @@ Les dépôts ci-dessous correspondent aux différents TDs et projets que j'ai pu
   <br><br>
   <a href="https://github.com/JumperBoost?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JumperBoost&locale=fr&layout=compact&langs_count=8"></a>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+From: 17 November 2023 - To: 16 November 2024
+
+Total Time: 181 hrs 49 mins
+
+PHP               100 hrs 15 mins █████████████▓░░░░░░░░░░░   55.13 %
+SQL               22 hrs 54 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+Python            11 hrs 59 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Markdown          10 hrs 57 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+CSS               10 hrs 19 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+```
+
+<!--END_SECTION:waka-->
   <br>
   <strong>Statistiques</strong>
 </div>
