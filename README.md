@@ -426,9 +426,9 @@ Les dépôts ci-dessous correspondent aux différents TDs et projets que j'ai pu
 <h3>BUT 2 – Deuxième année</h3>
 
 > [!NOTE] 
-> À titre temporaire, les dépôts ci-dessous correspondent aux différents TDs abordés en deuxième année, effectué en autodidacte.
+> La deuxième année n'étant pas terminée, peu de dépôt sont disponible publiquement. Cependant, la liste des projets ci-dessous est mis à jour régulièrement.
 
-<h4>1er semestre</h4>
+<h4>3ème semestre</h4>
 <details>
   <summary><strong>Développement web PHP
     <img src="resources/language-icons/html5.png" height=15>
@@ -437,11 +437,15 @@ Les dépôts ci-dessous correspondent aux différents TDs et projets que j'ai pu
     <img src="resources/storage-icons/mysql.png" height=15>
   </strong></summary> 
   <br>
-  <a href="https://github.com/JumperBoost/A2-Web-TDPHP-AD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A2-Web-TDPHP-AD" height=110></a>
+  <a href="https://github.com/JumperBoost/A2-DevWeb-TDs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A2-DevWeb-TDs" height=110></a>
 </details>
 
 <div align="center">
-  <br><br><a href="https://github.com/JumperBoost?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JumperBoost&locale=fr&layout=compact&langs_count=8"></a><br>
+  <br><br>
+  <a href="https://github.com/JumperBoost?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JumperBoost&locale=fr&layout=compact&langs_count=8"></a>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  <br>
   <strong>Statistiques</strong>
 </div>
 
