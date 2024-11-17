@@ -18,7 +18,11 @@ jobs:
           TIME_RANGE: last_year
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
+          CODE_LANG: rust
           COMMIT_MESSAGE: Mise à jour hebdomadaire stats WakaTime
           TARGET_BRANCH: master
           TARGET_PATH: README.md
+          LANG_COUNT: 10
+          STOP_AT_OTHER: true
           IGNORED_LANGUAGES: Binary
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
