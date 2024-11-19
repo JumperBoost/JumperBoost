@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # lancement tous les lundis à 6h45 (CET/CEST)
-    - cron: "45 6 * * 1"
+    - cron: "45 5 * * 1"
 
 jobs:
   update-readme:
