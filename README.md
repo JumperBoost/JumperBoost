@@ -30,6 +30,7 @@ Ayant fait un baccalauréat général avec **Mathématiques** et **Numérique et
       <tr>
         <th align="center" colspan="3">Front-end</th>
         <th align="center" colspan="2">Back-end</th>
+        <th align="center" colspan="1">Framework</th>
       </tr>
     </thead>
     <tbody>
@@ -63,6 +64,12 @@ Ayant fait un baccalauréat général avec **Mathématiques** et **Numérique et
             <img src="resources/language-icons/php.svg" height="50" alt="PHP"/>
           </a>
           <br>&nbsp&nbsp&nbsp&nbspPHP&nbsp&nbsp&nbsp&nbsp
+        </td>
+        <td align="center">
+          <a href="https://symfony.com/">
+            <img src="resources/framework-icons/symfony.svg" height="50" alt="Symfony"/>
+          </a>
+          <br>Symfony
         </td>
       </tr>
     </tbody>
