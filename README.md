@@ -477,6 +477,27 @@ Les dépôts ci-dessous correspondent aux différents TDs et projets que j'ai pu
   <a href="https://github.com/JumperBoost/A2-DevWeb-TDs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=A2-DevWeb-TDs" height=110></a>
 </details>
 
+<br>
+<h3>Personnel</h3>
+<details>
+  <summary><strong>Insta'Pictures
+    <img src="resources/language-icons/html5.png" height=15>
+    <img src="resources/language-icons/css3.png" height=15>
+    <img src="resources/language-icons/typescript.svg" height=15>
+    <img src="resources/language-icons/php.svg" height=15>
+    <img src="resources/framework-icons/symfony.svg" height=15>
+    <img src="resources/framework-icons/vuejs.svg" height=15>
+    <img src="resources/framework-icons/nuxtjs.svg" height=15>
+    <img src="resources/framework-icons/tailwind.svg" height=15>
+    <img src="resources/language-icons/python.gif" height=15>
+    <img src="resources/storage-icons/json.png" height=15>
+    <img src="resources/storage-icons/elasticsearch.svg" height=15>
+  </strong></summary> 
+  <br>
+  <a href="https://github.com/JumperBoost/InstaPictures-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=InstaPictures-Frontend" height=110></a>
+  <a href="https://github.com/JumperBoost/InstaPictures-Backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JumperBoost&locale=fr&repo=InstaPictures-Backend" height=110></a>
+</details>
+
 <h2 align="center">📊 Statistiques</h2>
   
 > [!IMPORTANT]
