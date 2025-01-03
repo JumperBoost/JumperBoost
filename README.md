@@ -28,9 +28,9 @@ Ayant fait un baccalauréat général avec **Mathématiques** et **Numérique et
   <table>
     <thead>
       <tr>
-        <th align="center" colspan="3">Front-end</th>
+        <th align="center" colspan="4">Front-end</th>
         <th align="center" colspan="2">Back-end</th>
-        <th align="center" colspan="1">Framework</th>
+        <th align="center" colspan="4">Framework</th>
       </tr>
     </thead>
     <tbody>
@@ -54,6 +54,12 @@ Ayant fait un baccalauréat général avec **Mathématiques** et **Numérique et
           <br>JavaScript
         </td>
         <td align="center">
+          <a href="https://www.typescriptlang.org/">
+            <img src="resources/language-icons/typescript.svg" height="50" alt="TypeScript"/>
+          </a>
+          <br>TypeScript
+        </td>
+        <td align="center">
           <a href="https://nodejs.org/">
             <img src="resources/language-icons/nodejs.png" height="50" alt="Node.js"/>
           </a>
@@ -70,6 +76,24 @@ Ayant fait un baccalauréat général avec **Mathématiques** et **Numérique et
             <img src="resources/framework-icons/symfony.svg" height="50" alt="Symfony"/>
           </a>
           <br>Symfony
+        </td>
+        <td align="center">
+          <a href="https://vuejs.org/">
+            <img src="resources/framework-icons/vuejs.svg" height="50" alt="Vue.js"/>
+          </a>
+          <br>Vue.js
+        </td>
+        <td align="center">
+          <a href="https://nuxt.com/">
+            <img src="resources/framework-icons/nuxtjs.svg" height="50" alt="Nuxt.js"/>
+          </a>
+          <br>Nuxt.js
+        </td>
+        <td align="center">
+          <a href="https://tailwindcss.com/">
+            <img src="resources/framework-icons/tailwind.svg" height="50" alt="Tailwind CSS"/>
+          </a>
+          <br>Tailwind CSS
         </td>
       </tr>
     </tbody>
@@ -130,7 +154,7 @@ Ayant fait un baccalauréat général avec **Mathématiques** et **Numérique et
     <thead>
       <tr>
         <th align="center" colspan="2">Relationelle</th>
-        <th align="center" colspan="2">Autre</th>
+        <th align="center" colspan="3">Autre</th>
       </tr>
     </thead>
     <tbody>
@@ -158,6 +182,12 @@ Ayant fait un baccalauréat général avec **Mathématiques** et **Numérique et
             <img src="resources/storage-icons/yaml.png" height="50" alt="YAML"/>
           </a>
           <br>YAML
+        </td>
+        <td align="center">
+          <a href="https://www.elastic.co/elasticsearch">
+            <img src="resources/storage-icons/elasticsearch.svg" height="50" alt="ElasticSearch"/>
+          </a>
+          <br>ElasticSearch
         </td>
       </tr>
     </tbody>
