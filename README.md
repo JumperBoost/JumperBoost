@@ -8,7 +8,7 @@
 <!-- About Me Section -->
 <h2 align="center">🏷️ À propos de moi</h2>
 
-Je m'appelle Milwenn FRANCEUS-COINTREL, j'ai actuellement 20 ans et je suis étudiant en 3ème année de BUT Informatique à l'IUT de Montpellier-Sète, en alternance dans le poste de Développeur Fullstack.
+Je m'appelle Milwenn FRANCEUS-COINTREL, j'ai actuellement 21 ans et je suis étudiant en 3ème année de BUT Informatique à l'IUT de Montpellier-Sète, en alternance dans le poste de Développeur Fullstack.
 
 Passionné par l'informatique depuis mon plus jeune âge, de par les jeux vidéo et leurs possibilités gargantuesques de modding, mon intérêt envers le développement s'est fait naturellement. C'est vers l'âge de mes 10 ans sur le jeu vidéo [Minecraft](https://www.minecraft.net/), que j'ai découvert que l'on pouvait faire tout ce que l'on souhaitait via l'API [Bukkit](https://dev.bukkit.org/) et le langage de programmation Java. Ce fut un véritable déclic : cette ${\color{Orange}\large\textsf{flamme}}\$ allumée en moi depuis ce jour, m'a éveillé ma curiosité et ma soif d'apprendre toutes sortes de technologies lors de mon temps libre; des heures et des journées entières à **imaginer**, **coder**, **tester**, et surtout **apprendre de mes erreurs**.
 
